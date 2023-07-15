@@ -1,7 +1,6 @@
 ## Bem vindo(a) a M-Diogo!
 
 
-Aprendendo Front-end e Desenvolvimento Web. Entusiasta do UX e Designer nas horas vagas, mas sempre em constante busca de mais conhecimento!
  <div>
    <a href="https://github.com/M-Diogo">
    <img height="167em" src="https://github-readme-stats.vercel.app/api?username=M-Diogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
